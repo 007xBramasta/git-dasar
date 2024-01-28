@@ -6,3 +6,4 @@ Feature B
 Feature C
 Master
 Master Ocean
+Feature Merge Squash    
